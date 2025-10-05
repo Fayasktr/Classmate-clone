@@ -1,0 +1,69 @@
+.footer{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #0a1821;
+    
+}
+.footer-divs{
+    background-color: white;
+    width: 100px;
+    height: 300px;
+}
+.heading-footer{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    display: block;
+}
+#itc-logo{
+    width: 50px;
+    height: 50px;
+}
+.classmate-last{
+    margin-top: 60px
+}
+pre{
+    color: rgb(135, 133, 133);
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 27px;
+}
+.follow{
+    margin-top: 40px;
+}
+#contact-div{
+    display: flex;
+    align-items: center;
+}
+.contact-tools{
+    margin-left: 20px;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 27px;
+    color: blue;
+}
+.socialmedia{
+    display: flex;
+    align-items: center;
+    
+}
+.socialmedia-logo{
+    height: 40px;
+    width: 40px;
+    margin-left: 5px;
+    margin-top: -15px;
+}
+.facebook{
+    height: 40px;
+    width: 45px;
+}
+.instagram{
+    height: 65px;
+    width: 65px;
+}
+.youtube{
+    margin-left: 15px;
+}
