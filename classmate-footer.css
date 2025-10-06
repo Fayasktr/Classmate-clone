@@ -38,6 +38,14 @@ pre{
     display: flex;
     align-items: center;
 }
+#messege-icon{
+    position: relative;
+    left: -20px;
+}
+#number{
+    position: relative;
+    right: 15px;
+}
 .contact-tools{
     margin-left: 20px;
     font-weight: 200;
